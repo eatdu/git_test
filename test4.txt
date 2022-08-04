@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 test
 test
 test testtestststststs`
+=======
+testeststststststststststttsst
+>>>>>>> branchTest3
